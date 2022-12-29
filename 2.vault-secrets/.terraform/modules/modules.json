@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"vault_secrets","Source":"../modules/vault-secrets","Dir":"../modules/vault-secrets"},{"Key":"","Source":"","Dir":"."},{"Key":"k8s-service-account","Source":"../modules/k8s-service-account","Dir":"../modules/k8s-service-account"}]}
