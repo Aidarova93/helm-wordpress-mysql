@@ -1,0 +1,1 @@
+export VAULT_TOKEN="hvs.UsIFYAfww2Z6hpS7FjYe7HI7"
