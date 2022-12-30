@@ -3,6 +3,7 @@
 .terraform
 terraform.tfstate*
 
-0.account_setup/configurations.tfvars
 backend.tf
-login.sh
+
+1.namespace_setup/backend.tf
+/home/stomariv/ticket20-project/1.namespace_setup/backend.tf
